@@ -175,13 +175,6 @@ final String baseUrl = "http://YOUR_IP:8000";
 
 ---
 
-## 👨‍💻 Author
-
-**Manas**
-Flutter Developer | Full Stack Enthusiast
-
----
-
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and share it with others!
