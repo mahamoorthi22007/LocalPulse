@@ -1,10 +1,6 @@
----
-
 # 🌊 LocalPulse – Community Reporting App
 
 > A modern Flutter-based community issue reporting platform that allows users to report local problems, explore nearby events, and stay connected with their community in real time.
-
----
 
 ## 🚀 Features
 
